@@ -1,0 +1,88 @@
+{
+  "personal_info": {
+    "id": 1,
+    "name": "Ujjwal Shrestha",
+    "email": "ujjwal7248@gmail.com",
+    "github": "theleanbow",
+    "address": "Lalitpur-28, Nepal",
+    "phone": "9816426502"
+  },
+  "work_experience": [
+    {
+      "id": 1,
+      "position": "Apprentice Garage & Solutions Developer",
+      "company": "Inspire Uvic",
+      "start_date": "Aug 2024",
+      "end_date": "Jan 2025",
+      "responsibilities": [
+        "Collaborated with community partners to create software for monitoring the progress of their works.",
+        "Participated in workshops and training sessions, gaining hands-on experience in DevOps, API design, and agile project management methodologies.",
+        "Collaborated with a multidisciplinary team to co-design and develop technology solutions addressing social, economic, and environmental challenges."
+      ]
+    },
+    {
+      "id": 2,
+      "position": "Data Entry and Management Volunteer",
+      "company": "Micah Nepal",
+      "start_date": "May 2024",
+      "end_date": null,
+      "responsibilities": [
+        "Updated the database of Micah Nepal to ensure accurate, consistent, and timely submission of relevant data and information."
+      ]
+    },
+    {
+      "id": 3,
+      "position": "Counselor",
+      "company": "Tearfund Nepal",
+      "start_date": "Feb 2024",
+      "end_date": "Mar 2024",
+      "responsibilities": [
+        "Prepared a comprehensive report summarizing the key change stories and learning drawn in the reports.",
+        "Liaised with Tearfund's partner organizations to gather data to ensure accurate, consistent, and timely submission of relevant data and information."
+      ]
+    },
+    {
+      "id": 4,
+      "position": "Software Coordinator",
+      "company": "Tensor, IOE Thapathali",
+      "start_date": "Feb 2023",
+      "end_date": "Feb 2024",
+      "responsibilities": [
+        "Fostered a collaborative environment by actively engaging with community members.",
+        "Organized C programming workshop along with teammates for the first-year students."
+      ]
+    },
+    {
+      "id": 5,
+      "position": "Project Manager",
+      "company": "NHRPFDN",
+      "start_date": "Nov 2022",
+      "end_date": "Dec 2023",
+      "responsibilities": [
+        "Supervised and worked along with other volunteers and members involved in producing audio books.",
+        "Organized audio book distribution programs."
+      ]
+    }
+  ],
+  "education": {
+    "id": 1,
+    "degree": "Bachelor of Electronics, Communication and Information Engineering",
+    "institution": "IOE Thapathali Campus",
+    "start_year": 2019,
+    "end_year": "Present",
+    "relevant_skills": " HTML, CSS, Javascript, Python, MySQL "
+  },
+  
+  "projects": [
+    {
+      "id": 1,
+      "title": "Exploring Meta-Heuristic Algorithms for 5G Multi-Tier Radio Access Network Planning",
+      "description": "Evaluated and recommended optimal algorithms for 5G base station placement in Nepal."
+    },
+    {
+      "id": 2,
+      "title": "Website Development (Wordpress)",
+      "description": "Designed the website for the organization with the features of users, and different levels of permissions using WordPress CMS."
+    }
+  ]
+}

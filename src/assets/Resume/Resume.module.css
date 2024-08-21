@@ -1,0 +1,19 @@
+
+/* src/components/Resume.module.css */
+.body {
+    /* Apply custom serif font and default font size */
+    width: 210mm;  
+    height: 297mm;  
+    margin: auto;  
+    padding: 20px;
+    /* background-color: beige; */
+  }
+  
+  .header {
+    @apply text-xl; /* Apply custom extra-large font size */
+  }
+  
+  .paragraph {
+    @apply text-lg; /* Apply custom large font size */
+  }
+  
